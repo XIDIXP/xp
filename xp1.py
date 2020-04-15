@@ -232,8 +232,8 @@ def super():
 	print "\x1b[1;32;40m[1] \033[1;33;40mCrack From Friend List"
 	print "\x1b[1;32;40m[2] \033[1;33;40mCrack From Public ID"
 	print "\x1b[1;32;40m[3] \033[1;33;40mTarget Bruteforce"
-	print "\x1b[1;32;40m[1] \033[1;33;40mCrack From Other Country"
-	print "\x1b[1;32;40m[4] \033[1;33;40mCrack From File"
+	print "\x1b[1;32;40m[4] \033[1;33;40mCrack From Other Country"
+	print "\x1b[1;32;40m[5] \033[1;33;40mCrack From File"
 	print "\x1b[1;32;40m[0] \033[1;33;40mBack"
 	pilih_super()
 
